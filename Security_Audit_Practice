@@ -1,0 +1,50 @@
+Google Cybersecurity Audit Practice - Fake Company: Botium Toys
+
+Step 1:
+- Reviewing the audit scope and goals that the company wishes to achieve or abide by
+- Scope of Audit
+  -> Current user permissions set in the following systems: accounting, end point detection, firewalls, intrusion detection system
+    (IDS), SIEM tool
+  -> Current implemented controls in the following systems: accounting, end point detection, firewalls, intrusion detection system
+    (IDS), SIEM tool
+  -> Current procedures and protocols set for the following systems: accounting, end point detection, firewalls, intrusion detection system
+    (IDS), SIEM tool
+  -> Ensure current user permissions, controls, proceudres, and protocols in place align with necessary compliance requirements
+  -> Ensure current technology is accounted for. Both hardware and system access
+- Goals of Audit
+  -> To adhere to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF)
+  -> Establish a better process of their systems to ensure they are compliant
+  -> Fority system controls
+  -> Implement the concept of least permission when it comes to user credential management
+  -> Establish their policies and procedures, which includes their playbooks
+  -> Ensure they are meeting compliance requirements
+
+Step 2:
+- Recap of Goals
+  -> Improve Botium Toys' current security posture by aligning to industry best practices (e.g., adhere to NIST CSF, implement
+     conecpt of least permissions)
+  -> Provide mitigation recommendations (i.e., controls, policies, documentation), based on current risks
+  -> Identify compliance regulations Botium Toys must adhere to, primarily based on where we conduct business and how
+     we accept payments
+- Organization's Risks
+  -> Inadequate management of assets
+  -> Proper controls are not in place
+  -> May not be compliant with U.S. and international regulations and guidelines
+  -> Current risk is 8/10, due to lack of controls and adherence to compliance regulations and standards
+- Reflective Questions
+  -> What are the biggest risks to the organization?
+     Lack of compliance to regulations, lack of control over assets, lack of policies and procedures
+  -> Which controls are most essential to implement immediately versus in the future?
+     The Administrative Controls. Employees are typically the riskiest part in terms of security, next is Technical Controls.
+  -> Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe,
+    avoid fines, etc?
+     The CSF, frameworks involving credit card usage, any country-specific frameworks where business is done like GDPR
+
+Step 3:
+- Controls Assessment complete in Google Docs
+
+Step 4:
+- Compliance Checklist completed in Google Docs
+
+Step 5:
+- Memorandum included in Security_Audit_Memorandum repo
