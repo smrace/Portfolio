@@ -1,0 +1,47 @@
+Google Cybersecurity Audit Practice: Botium Toys
+
+TO: IT Manager, Stakeholders
+FROM: Shane Race
+DATE: 8/15/2023
+SUBJECT: Internal IT Audit Findings and Recommendations
+
+Dear Colleagues,
+
+Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.
+
+Scope:
+- Evaluate current user permissions in the following systems: accounting, end point detection, firewall, intrusion detection system,     and security information and event management tool
+- Evaluate implemented controls in the following systems:accounting, end point detection, firewall, intrusion detection system,         and security information and event management tool
+- Evaluate procedures and protocols set for the following systems:accounting, end point detection, firewall, intrusion detection         system, and security information and event management tool
+- Ensure current user permissions, controls, procedures, and protocols in plcae align with necessary compliance requirements
+
+Goals:
+- Adhere to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF)
+- Establish a better process for their systems to ensure they are compliant
+- Fortify system controls
+- Implement the concept of least permissions when it comes to user credential management
+- Establish their policies and procedures, which includes their playbooks
+- Ensure they are meeting compliance requirements
+
+Critical findings (must be addressed immediately): 
+- Adherence to General Data Protection Regulation (GDPR), Payment Card Industry Data Security Standard (PCI DSS), and System and       Organizations Controls (SOC type 1, SOC type 2)
+- Administrative Controls: 
+  -> Immediate action needed for Least Privilege, Disaster Recovery Plans, Password Policies, Access Control Policies, and               Separation of Duties
+  -> Account Management Policies requires action and is a high priority, but the formers take precedence
+- Technical Controls:
+  -> Immediate action need for Intrusion Detection System (IDS), Backups, Antivirus (AV) Software, and Manual Monitoring,                Maintenance, and intervention
+  -> Encryption and Password Management Systems are a high priority, but the formers take precedence
+- Physical Controls:
+  -> Locks are a high priority
+
+Findings (should be addressed, but no immediate need): 
+-> Firewalls are not needed to be focused on at this time
+-> Closed-Circuit Television (CCTV) Surveillance is the highest priority, but can wait if to attend to the previous high priority      controls in the other Controls sections, or the Locks
+-> Locking Cabinets should be attended to, but can be put on hold until higher priority items are taken care of
+-> Time-Controlled Safes, Adequate Lighting, Fire Detection and Prevention Systems can all be dealt with when the other areas have     been taken care of
+-> Signage Indicating Alarm Service Provider is a very low priority and should be done when all else is taken care of
+
+Summary/Recommendations:
+  The overall security posture of the company is not at what it needs to be and puts the company at risk of breaches, compliance issues, financial penalties, and more. The main areas that need attention are those that revolve around the data that we hold and, and who has access to it. This includes minimizing the priviliges of the employees to a bare minimum to get their job done, stronger passwords, duties and jobs being separated across a team and not just to one person. The Technical controls pertaining to the systems and how we monitor and protect them, also need to be addressed through backups of our data, monitoring and detecting any breaches and stopping them at the source, and all-around being aware of any behavior in our system that raises flags
+  While implementing and strengthening these security issues, we will need to adhere to several regulations and standards: General Data Protection Regulation (GDPR), Payment Card Industry Data Security Standard (PCI DSS), and System and Organization Controls (SOC type 1, SOC type 2). The GDPR deals with the EU and the data protection of its citizens, which is crucial because our customer-base may be partially located in the EU. This includes informing citizens of compromised data within 72 hours of the incident occuring. The next is the PCI DSS which we need to adhere to because we store, accept, proccess, and transmit credit card information. We need to ensure that all of this is done in a secure environment. Lastly, we need adhere to the SOC type 1 and SOC type 2 because we need to enforce appropriate access for internal and external (third-party vendor) personnel to mitigate risk and ensure data safety. Failure to comply with this can result in fraud.
+  We need to take immediate action in the company to ensure that we are up to standards and are compliant with regulations so that we protect user data, avoid legal and financial penalties, and we maintain the integrity of the company and the trust of our customers.
