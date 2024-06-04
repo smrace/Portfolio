@@ -1,0 +1,9 @@
+This project is intended to get a variety of information such as vehicle information, GPS information, camera information, weather,
+  and emergency (police, ambulance, fire, etc.).
+The information will track a car going from London to Birmingham
+
+The information will flow from the source to Kafka whcih will be controlled by Apache Zookeeper. Apache Spark will be the consumer
+  listen for the data and stream it to Amazon S3. We will use a data catalog and AWS Glue to write the data from the catalog. 
+  The data will then be connected to Amazon Redshift (could use Athena as well but I will mainly be using that for quering and 
+  visualizing). All of this section will be controlled and secured by AWS IAM.
+
